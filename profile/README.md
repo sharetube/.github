@@ -7,5 +7,6 @@ This GitHub organization aims to develop a convenient, secure, and open-source s
 * Public development
 * Simple user experience
 * Open for community updates
+* Attention to the little things
 
 ### 💕
